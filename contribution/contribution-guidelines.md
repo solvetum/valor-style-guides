@@ -1,7 +1,7 @@
 ### Commit message guideline
 
 #### Important
-* commits without task id (link for asana) are not allowed
+* commits without PivotalTracker task ID (or full-lenght link when using Asana) are not allowed!
 
 Make the changes to the code and tests and then commit to your branch. Be sure to follow the commit message conventions.
 
